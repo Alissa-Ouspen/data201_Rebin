@@ -9,7 +9,7 @@ This is the second of two unit projects that you will complete this semester. Un
 
 The project is due on **[April 30]**. Late submissions will result in a reduction of points.
 
-You will give a brief **3-minute presentation** of your project on **April 30** at the beginning of class.
+You will give a brief **3-5 minute presentation** of your project on **April 30** at the beginning of class.
 
 This is an **individual project**. You may discuss ideas with classmates and use online resources for guidance, but your implementation, analysis, and interpretation must be your own work. You should be able to clearly explain your work if asked.
 
